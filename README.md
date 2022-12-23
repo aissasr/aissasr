@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Aissa Serrar
+- 👀 I’m interested in Software Engineering, DDD, TDD, Clean architecture, Onion Architecture ... Currently I am a mobile applications developer
+- 🌱 I’m currently learning System design, System Architecture
